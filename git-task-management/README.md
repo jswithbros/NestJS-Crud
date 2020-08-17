@@ -68,7 +68,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Author - [Shivam Choudhary]
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Youtuve - [jswithbros](https://www.youtube.com/watch?v=9VN2tS6GSlc)
+- Youtube - [jswithbros](https://www.youtube.com/watch?v=9VN2tS6GSlc)
 
 ## License
 
